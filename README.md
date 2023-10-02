@@ -12,7 +12,7 @@
 </div>
 
 ### :woman_technologist: Обо мне :
-* Fullstack QA в Тинькофф
+* Fullstack QA
 
   ---
 
